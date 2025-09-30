@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]
+# Hi there 👋, I'm sanskriti mishra 
 
 🚀 **Frontend Engineer | UI/UX Designer**  
 🎨 Passionate about building **beautiful interfaces** & **seamless user experiences**  
